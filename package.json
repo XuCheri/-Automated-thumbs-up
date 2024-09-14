@@ -1,0 +1,24 @@
+{
+  "name": "-Automated-thumbs-up",
+  "version": "1.0.0",
+  "description": "桌面自动化，完成自动点赞考核....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XuCheri/-Automated-thumbs-up.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XuCheri/-Automated-thumbs-up/issues"
+  },
+  "homepage": "https://github.com/XuCheri/-Automated-thumbs-up#readme",
+  "dependencies": {
+    "puppeteer": "^23.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
